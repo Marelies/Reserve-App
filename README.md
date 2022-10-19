@@ -1,5 +1,5 @@
 # Reserve-App
-Application for reservations/no  backend functionalites
+Application for reservations/no  backend functionalities
 
 
 Go to root directory, npm install command then npm start.
