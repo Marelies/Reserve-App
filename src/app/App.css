@@ -47,7 +47,7 @@
     align-items: center;
     width: 100vw;
     height: 100vh;
-    background-image: url("../images/ured4.jpg");
+    background-image: url("../lib/images/ured4.jpg");
     background-size: cover;
     background-position: center;
   }
